@@ -4,7 +4,7 @@ Installation Instructions
 Newsroom requires Python 3.6+ and can be installed using `pip`:
 
 ```sh
-pip install -e git+git://github.com/clic-lab/newsroom.git#egg=newsroom
+pip install -e git+git://github.com/viahes/newsroom.git
 ```
 
 Getting the Data
